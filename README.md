@@ -4,7 +4,7 @@
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySql%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
